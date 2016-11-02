@@ -4,3 +4,5 @@
 /out/
 /.idea/
 /String1/String1.iml
+.DS_Store
+String1/.DS_Store
